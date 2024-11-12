@@ -10,7 +10,7 @@ Base de Données
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </a> </p>
 
 Outils
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jira,figma,vscode,intellij,androidstudio" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode,idea,androidstudio" /> </a> </p>
 
 Systèmes d'Exploitation
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,windows" /> </a> </p>
