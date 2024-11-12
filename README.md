@@ -1,14 +1,20 @@
+Mes Compétences
 Langages de Programmation
-<details> <summary>Voir les détails</summary> - JavaScript - Python - C++ - Autres langues pertinentes </details>
-
-Frameworks & Bibliothèques
-<details> <summary>Voir les détails</summary> - React - Vue.js - Django - Autres frameworks utilisés </details>
-
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,php,ts,swift,rust,go" /> </a> </p>
+Frontend Development
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,sass,bootstrap,tailwind,threejs" /> </a> </p>
+Backend Development
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,rails,laravel,fastapi" /> </a> </p>
+Bases de Données
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase" /> </a> </p>
 Data Science & Machine Learning
-<details> <summary>Voir les détails</summary> - Pandas, NumPy - Scikit-learn - TensorFlow - Techniques d’analyse de données et de modélisation </details>
-
-Outils DevOps & Environnements
-<details> <summary>Voir les détails</summary> - Docker, Kubernetes - Git & GitHub - CI/CD avec Jenkins, GitHub Actions </details>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,scikit-learn,opencv" /> </a> </p>
+DevOps & Outils Cloud
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,terraform" /> </a> </p>
+Outils de Versioning et de Collaboration
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,markdown" /> </a> </p>
+Outils de Développement & Éditeurs
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom,emacs,jetbrains,figma,photoshop,xd" /> </a> </p>
 
 Contact & Réseaux Sociaux
 
