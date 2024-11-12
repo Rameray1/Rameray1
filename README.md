@@ -11,4 +11,5 @@ Systèmes d'Exploitation
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,windows" /> </a> </p>
 Contact & Réseaux Sociaux
 
-    LinkedIn : www.linkedin.com/in/ramazan-kus
+    - **[LinkedIn](https://www.linkedin.com/in/ramazan-kus)**
+
