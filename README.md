@@ -1,7 +1,7 @@
 # **Mes Compétences**
 
 ### Langages de Programmation
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,c,html,css" /> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,php,c,html,css" /> </a> </p>
 
 ### Frameworks
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=spring,symfony,angular,vue" /> </a> </p>
