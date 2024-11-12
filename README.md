@@ -1,10 +1,9 @@
 Mes Compétences
+Mes Compétences
 Langages de Programmation
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,php,ts,swift,rust,go" /> </a> </p>
-Frontend Development
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,sass,bootstrap,tailwind,threejs" /> </a> </p>
-Backend Development
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,rails,laravel,fastapi" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,py,java,c,php,ts,html,css" /> </a> </p>
+Frameworks
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vue,angular,spring,symfony" /> </a> </p>
 Bases de Données
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase" /> </a> </p>
 Data Science & Machine Learning
