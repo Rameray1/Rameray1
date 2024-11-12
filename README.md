@@ -1,16 +1,16 @@
-Hi, I'm Rameray, currently 20 years old student in computer science, on this github I share my small open source projects, have fun browsing it
+Langages de Programmation
+<details> <summary>Voir les détails</summary> - JavaScript - Python - C++ - Autres langues pertinentes </details>
 
-    My Discord is _keap
+Frameworks & Bibliothèques
+<details> <summary>Voir les détails</summary> - React - Vue.js - Django - Autres frameworks utilisés </details>
 
-🌍 Main languages:
+Data Science & Machine Learning
+<details> <summary>Voir les détails</summary> - Pandas, NumPy - Scikit-learn - TensorFlow - Techniques d’analyse de données et de modélisation </details>
 
-⚙ Main Framework:
+Outils DevOps & Environnements
+<details> <summary>Voir les détails</summary> - Docker, Kubernetes - Git & GitHub - CI/CD avec Jenkins, GitHub Actions </details>
 
-🌍 Mastered Languages:
+Contact & Réseaux Sociaux
 
-💾 Data Storage:
-
-⚙️ Utils:
-
-🔧 System:
-
+    LinkedIn : Ton profil
+    Twitter : Ton profil
