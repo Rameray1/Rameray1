@@ -1,4 +1,4 @@
-# **Mes Compétences**  <!-- Titre principal plus visible -->
+# **Mes Compétences**
 
 ### Langages de Programmation
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,c,html,css" /> </a> </p>
@@ -17,7 +17,7 @@
 
 ---
 
-## **Contact & Réseaux Sociaux**  <!-- Mise en valeur du lien LinkedIn -->
+## **Contact & Réseaux Sociaux**
 
 **Retrouvez-moi sur LinkedIn :**  
-[**LinkedIn - Ramazan Kus**](https://www.linkedin.com/in/ramazan-kus) <!-- Rendre LinkedIn plus visible -->
+[**LinkedIn - Ramazan Kus**](https://www.linkedin.com/in/ramazan-kus)
